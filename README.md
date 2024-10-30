@@ -10,4 +10,5 @@
 
 
 
-<img width="612" alt="Резюме QA_Базанова Елена" src="https://github.com/user-attachments/assets/a9968ea9-f28d-4c99-b743-884f13cdd8af">
+
+<img width="612" alt="Резюме QA_Базанова Елена" src="https://github.com/user-attachments/assets/aeaa8e64-dcbc-46f4-b52f-99bf33495e85">
